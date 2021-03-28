@@ -1,4 +1,4 @@
 # JavaScript30
 
-30 mini JavaScript Project to understand Js Basics
+30 mini JavaScript Challenges to understand Js Basics
 (In Progress)
